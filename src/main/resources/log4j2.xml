@@ -12,7 +12,7 @@
         <SMTP name="EmailAppender" subject="Critical Error in Application"
               to="logikasun@gmail.com" from="logikasun@gmail.com"
               smtpHost="smtp.gmail.com" smtpPort="465"
-              smtpUsername="logikasun@gmail.com" smtpPassword="fkxv uwya wtuo pbrm"
+              smtpUsername="logikasun@gmail.com" smtpPassword="_____________"
               smtpProtocol="smtps" smtpDebug="false">
             <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} [%t] %-5level %logger{36} - %msg%n"/>
             <Filters>
